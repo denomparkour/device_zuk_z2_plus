@@ -37,3 +37,4 @@ TARGET_KERNEL_CONFIG := z2_plus_defconfig
 
 # inherit from the proprietary version
 -include vendor/zuk/z2_plus/BoardConfigVendor.mk
+
